@@ -1,3 +1,10 @@
+![image](https://github.com/FernandoAntonioAzevedo/GitFind_React/assets/105080476/d200d210-9e0a-466e-8b91-038b559e87bd)
+
+![image](https://github.com/FernandoAntonioAzevedo/GitFind_React/assets/105080476/cfe58feb-b9ce-4739-9ac1-5d0d7daa297d)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
